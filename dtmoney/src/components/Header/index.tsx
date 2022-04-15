@@ -1,4 +1,4 @@
-import logoImg from '../../assets/logo512.png'
+import logoImg from '../../assets/logo.svg'
 import { Container, Content } from './styles'
 
 export function Header() {
