@@ -6,4 +6,4 @@ São projetos que usei para estudar e ultilizar como exemplo em outras aplicaç�
 
 React, styled-components, consumindo a API do github.
 
-## td-money
+## tdmoney
