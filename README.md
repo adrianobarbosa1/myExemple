@@ -4,6 +4,6 @@ São projetos que usei para estudar e ultilizar como exemplo em outras aplicaç�
 
 ## git-explore
 
-React, styled-components, consumindo a API do github.
+React, styled-components(CSS), consumindo a API do github.
 
 ## tdmoney
